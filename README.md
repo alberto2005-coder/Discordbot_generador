@@ -113,5 +113,5 @@ Edit the `config.json` file with your credentials:
 ---
 
 <div align="center">
-  <p>Generador creado por <b>$MartoBossX#7777</b></p>
+  <p>Generador creado por <b>ALBERTO</b></p>
 </div>
