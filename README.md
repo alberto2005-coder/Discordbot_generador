@@ -70,6 +70,9 @@ Edita `config.json`:
 
 Para añadir un servicio, crea `accounts/<servicio>.txt` con una cuenta por línea y su comando `commands/gen-<servicio>.js` clonando uno existente.
 
+> [!NOTE]
+> Las cuentas incluidas en `accounts/` son **datos ficticios de ejemplo** para probar el flujo del bot. No son credenciales reales ni deben usarse como tales.
+
 ### Comandos
 
 | Comando | Descripción |
@@ -169,6 +172,9 @@ Edit `config.json`:
 | `COOLDOWN` | Seconds between generations per user |
 
 To add a service, create `accounts/<service>.txt` with one account per line and its `commands/gen-<service>.js` cloned from an existing one.
+
+> [!NOTE]
+> The accounts shipped in `accounts/` are **fictional sample data** for exercising the bot's flow. They are not real credentials and must not be used as such.
 
 ### Commands
 
